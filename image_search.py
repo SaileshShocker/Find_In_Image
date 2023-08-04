@@ -85,4 +85,6 @@ if __name__ == "__main__":
             print("No results found.")
     else:
         print("The given word is not present in the image.")
+        
+#___________________________________________________________________________________________________
 
